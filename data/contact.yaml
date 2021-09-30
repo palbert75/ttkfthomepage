@@ -1,0 +1,28 @@
+email: 'ttk@gmail.com'
+phone: '+36 20 241 7187'
+businessName: 'Hugo Serif'
+address: |
+  Tatabánya
+  2800 Sárberek
+hours:
+  - day: Hétfő
+    open: 8:30am
+    close: 5:00pm
+  - day: Kedd
+    open: 8:30am
+    close: 5:00pm
+  - day: Szerda
+    open: 8:30am
+    close: 5:00pm
+  - day: Csütörtök
+    open: 8:30am
+    close: 5:00pm
+  - day: Péntek
+    open: 8:30am
+    close: 5:00pm
+  - day: Szombat
+    open: Zárva
+    close:
+  - day: Vasárnap
+    open: Zárva
+    close:
