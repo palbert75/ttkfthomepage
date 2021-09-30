@@ -1,21 +1,18 @@
 ---
-title: 'Cargo Terminal'
+title: 'Ipari ügyfeleink'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Cargo Terminal'
-heroSubHeading: 'Dockyard construction planning and review.'
+heroHeading: ''
+heroSubHeading: 'Ipari területek, irodák, edzőtermek'
 heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['https://source.unsplash.com/OPjxGV7ubsY/1600x900', 
+'https://source.unsplash.com/yg-nrRoZcw0/1600x900','https://source.unsplash.com/QhE0IA1Zo7w/1600x900']
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Teszt
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Tata és környékén vállaljuk irodák, éttermek, ipari létesítmények, szállodák, hotelek, konyhák, iskolák, edzőtermek... padlószőnyegeinek, kárpitjainak, ülőgarnitúráinak, bőr felületek hatékony tisztítását a legkorszerűbb technológiákkal, környezetbarát szerekkel.
+
+.
