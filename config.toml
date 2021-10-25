@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ttkft.netlify.app/"
 languageCode = "en-us"
 title = "Épülettakarítás"
 themesDir = "themes"
